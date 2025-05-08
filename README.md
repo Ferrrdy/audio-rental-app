@@ -1,6 +1,6 @@
-# TOKO KELONTONG
+# audio-rental-app
 __________________
 
-Disini kami akan melakukan tugas akhir yaitu membuat suatu aplikasi desktop yang akan membatu UMKM dan memberikan solusi, dan inovatif
+Apps ini membantu pengguna untuk mencari dan menyewa peralatan audio profesional.
 
 __________________
