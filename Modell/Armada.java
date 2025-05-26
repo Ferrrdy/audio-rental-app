@@ -9,7 +9,7 @@ public class Armada {
     private LocalDateTime updatedAt;
 
     public Armada() {}
-
+    //construktor 2
     public Armada(int idArmada, String namaArmada, String status, LocalDateTime createdAt, LocalDateTime updatedAt) {
         this.idArmada = idArmada;
         this.namaArmada = namaArmada;
